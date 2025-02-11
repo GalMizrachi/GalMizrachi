@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Gal Mizrachi</h1>
 <h3 align="center">A Computer Science student</h3>
-<h2 align="center">I’m looking for my first student position</h2>
 
 How to reach me **galmiz1709@gmail.com**
 
